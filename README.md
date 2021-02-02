@@ -1,0 +1,2 @@
+# Scientific-Document-Classification
+Scientific document classification is a key step for managing research articles and papers in forums like arxiv, Google Scholar and Microsoft Academic. In this project, we have given some abstracts crawled from arXiv, the task is to develop classification models which can make predictions and return the corresponding scientific fields of the source documents. Different from coarse grained classification tasks like sentiment analysis, this is a fine grained classification task where there are 100 filed classes in total.
